@@ -3,6 +3,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://fanhexin.github.io/post/my-first-post/</loc>
+    <lastmod>2018-03-20T22:13:26+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://fanhexin.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
@@ -10,6 +17,14 @@
   
   <url>
     <loc>http://fanhexin.github.io/</loc>
+    <lastmod>2018-03-20T22:13:26+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://fanhexin.github.io/post/</loc>
+    <lastmod>2018-03-20T22:13:26+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
